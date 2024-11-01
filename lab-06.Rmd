@@ -28,7 +28,7 @@ diamonds <- diamonds %>% rename(
 
 ```{r}
 # Do some preliminary investigations & cleaning
-
+View(diamonds)
 
 
 
